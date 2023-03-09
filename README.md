@@ -6,4 +6,4 @@ edit readme on push-f branch
 edit readme on push-f branch 2
 
 # revert
-間違えた修正
+1の作業
