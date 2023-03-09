@@ -1,10 +1,5 @@
 # leccon-github-command
 
-edit readme on push-f branch
+## 方針
 
-# 正しい修正
-edit readme on push-f branch 2
-
-# revert
-1の作業
-3の作業
+- できるだけその日の作業を main にマージする
