@@ -7,5 +7,4 @@ edit readme on push-f branch 2
 
 # revert
 1の作業
-2の作業
 3の作業
